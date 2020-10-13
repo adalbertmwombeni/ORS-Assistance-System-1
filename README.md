@@ -1,0 +1,1 @@
+Using smartphone camera, nameplates, receipts and shipping note papers are sent to AWS storage. Through machine learning and OCR functions implemented in Lambda function, texts are recognized and extracted. Then, the matching process is perfomed. The result is sent back to the smartphone. 
